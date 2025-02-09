@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ### 2️⃣ Flask Uygulamasını Başlatın
 API'yi çalıştırmak için aşağıdaki komutu kullanın:
 ```sh
-python chat.py
+python app.py
 ```
 Başarılı bir şekilde çalıştırıldığında, API **http://127.0.0.1:5000/** adresinde hizmet verecektir.
 
